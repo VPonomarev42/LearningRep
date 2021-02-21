@@ -6,3 +6,6 @@
 * VK_pet_project - личный мини-проект по анализу сообществ пользователя во Вконтакте
 
 
+[Примеры работ в Tableau](https://public.tableau.com/profile/valentin7633#!/ "Примеры работ в Tableau")
+
+
